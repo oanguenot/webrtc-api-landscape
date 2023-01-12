@@ -34,6 +34,12 @@ The references to the standardization documents used have been added for all the
 6. Format
 The poster respects the A3 ratio.
 
+## Poster
+
+Here is the poster in **JPG** format
+
+![WebRTC API Landscape](./webrtc-api.jpg "WebRTC API Landscape")
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
