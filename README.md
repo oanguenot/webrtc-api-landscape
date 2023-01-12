@@ -26,7 +26,7 @@ Main relations between interfaces have been added with the meaning of: "From the
 - **Experimental** : APIs implementation is at early stage or a browser choice, interest to implement with at least a specification proposal (or an early stage of specification). Not recommended to use these APIs in production...
 
 4. Browsers
-The logo representing the browser has been added to each theme when the majority of the interfaces of a theme is implemented.
+Browser's logo has been added on themes where only certain browsers have an implementation available. No logo when the theme is implemented by all browsers.
 
 5. Reference
 The references to the standardization documents used have been added for all themes.
