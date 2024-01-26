@@ -1,14 +1,15 @@
 # WebRTC API Landscape
 This is a free WebRTC API Landscape poster made with [Excalidraw](https://excalidraw.com/)
 
+_Note_: Last update: January'24
+
 ## APIs
 The poster gathers the following APIs:
 - WebRTC & Media Capture API
 - Web Audio API
 - HTML API (partial, linked to MediaElement)
-- WebCodecs API
-- Streams API
-- Insertable Streams API
+- WebCodecs API & WebTransport API
+- Streams, Insertable Streams, Compression Streams and Encoded Streams API
 
 ## Features
 1. Interfaces
